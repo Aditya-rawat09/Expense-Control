@@ -1,0 +1,119 @@
+a{
+    text-decoration:none;
+}
+#total-sum{
+          border:2px solid blue;
+          width:100px;
+          margin-left:1120px;
+          position:relative;
+          bottom:38px;
+          display:inline-block;
+          text-align: center;
+          font-weight:bolder;
+          background-color:pink;
+          
+          
+}
+.but{
+    margin-left:550px;
+    /* margin-bottom:40px; */
+    /* border:2px solid red; */
+    font-size:15px;
+    font-weight:bolder;
+    color:green;
+    background-color:yellowgreen;
+
+}
+h1{
+    color:blue;
+    text-align: center;
+    font-size:80px;
+    margin-top:0px;
+    
+}
+body{
+    background-color: aqua;
+}
+h3{
+    color:blue;
+    text-align: center;
+    font-size:40px;
+}
+#range{
+    color: rgb(8, 249, 173);
+    width:500px;
+    height:5px;
+    border:2px solid blue;
+    border-radius:20px;
+    background-color:pink;
+    margin-top:0px;
+    position:relative;
+    bottom:13px;
+
+}
+#upi{
+   margin-left:590px; 
+   margin-bottom:55px;
+   /* border:2px solid blue; */
+   display:inline-block;
+   position:absolute;
+   bottom:100px;
+   font-size:30px;
+   color:green;
+}
+#date{
+    font-size:30px;
+    margin-top:70px;
+    margin-left:430px;
+    color:green;
+    width:70%;
+    }
+   
+    .days{
+        display:inline-block;
+        border:2px solid green;
+        width:100px;
+        text-align:center;
+        background-color:skyblue;
+
+    }
+    .days .spend{
+        display:block;
+    }
+    .days .spend:after{
+        content:'?';
+    }
+    .days .week-date{
+        display:block;
+    }
+    .days hr{
+        height:70px;
+        width:5px;
+        background-color:green;
+        border:1px solid green;
+        border-radius:3px;
+        display:inline-block;
+    }
+    .form{
+       
+        display:inline-block;
+        margin-left:680px;
+      
+        
+    }
+     
+
+    input[type=text]{
+                 height:23px;
+                 font-size:20px;
+                 background-color:orange;
+                
+    }
+    input[type=submit]{
+        height:23px;
+        /* border:2px solid red; */
+        margin-left:20px;
+        font-size:20px;
+        background-color:orange;
+       
+    }
